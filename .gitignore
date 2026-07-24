@@ -12,4 +12,4 @@ __pycache__/
 dataset/processed_phishing_email.csv
 
 # Saved models
-models/*.pkl
+# models/*.pkl
